@@ -51,4 +51,4 @@ The project reproduced the mechanics and direction of InstructGPT-style alignmen
 
 ## Acknowledgements
 
-This work was completed by Gokulanath Mahesh Kumar and Aidan Wu for Cornell CS 4782. We thank the course staff and project reviewers for feedback on the poster, report, and reproduction scope.
+This work was completed by Gokulanath Mahesh Kumar and Aidan Wu for Cornell CS 5782. We thank the course staff and project reviewers for feedback on the poster, report, and reproduction scope.
