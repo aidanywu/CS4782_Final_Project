@@ -1,6 +1,6 @@
 # Small-Scale InstructGPT: Reproducing RLHF with DistilGPT2
 
-This repository contains a CS 4782 final project re-implementing the core ideas from **Training Language Models to Follow Instructions with Human Feedback** by Ouyang et al. The project reproduces the InstructGPT alignment pipeline at course scale using DistilGPT2, public preference datasets, Hugging Face Transformers, TRL, and PyTorch.
+This repository contains a CS 5782 final project re-implementing the core ideas from **Training Language Models to Follow Instructions with Human Feedback** by Ouyang et al. The project reproduces the InstructGPT alignment pipeline at course scale using DistilGPT2, public preference datasets, Hugging Face Transformers, TRL, and PyTorch.
 
 ## Introduction
 
